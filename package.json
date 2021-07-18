@@ -1,0 +1,25 @@
+{
+  "name": "freecodecamp-apis-and-microservices-project-filemetadata",
+  "version": "0.0.1",
+  "description": "File Metadata Microservice project for FreeCodeCamp Course.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.16.4",
+    "multer": "^1.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabiankaraben/freecodecamp-apis-and-microservices-project-filemetadata"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Fabian Karaben",
+  "license": "Apache-2.0"
+}
